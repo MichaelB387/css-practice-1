@@ -1,3 +1,39 @@
 body {
-    background: lightblue;
+
+}
+
+
+/* Header and Footer */
+/* ----------------------- */
+header, footer {
+    color:#8D99AE;
+    background:#2B2D42;
+}
+
+header h1, header h2 {
+    color:#EDF2F4;
+}
+
+/* Work Experience
+------------------------- */
+.work {
+    background: #EDF2F4;
+}
+
+
+
+
+/* Education
+------------------------- */
+.education {
+    background:#8D99AE;
+}
+
+/* Links */
+a {
+    color:#EF233C;
+}
+
+a:hover {
+    text-decoration: none;
 }
